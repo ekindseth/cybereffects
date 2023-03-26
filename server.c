@@ -6,8 +6,8 @@
  
 int main(){
  
-  char *ip = "127.0.0.1";
-  int port = 5566;
+  char *ip = "172.31.120.194";
+  int port = 20009;
  
   int server_sock, client_sock;
   struct sockaddr_in server_addr, client_addr;
